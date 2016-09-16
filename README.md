@@ -25,7 +25,8 @@ npm i react-native-cacheable-image --save
 - [react-native-fs](https://github.com/johanneslumpe/react-native-fs) for file system access
 
 ## Usage
-import CacheableImage from 'react-native-cacheable-image'
+
+    import CacheableImage from 'react-native-cacheable-image'
 
 ## Example
 
